@@ -61,8 +61,8 @@ An intelligent cheque-processing pipeline using **YOLOv8** for object detection 
 }
 ```
 ## Screenshots
+![Sample UI](https://raw.githubusercontent.com/nikitapatidar957/Automated_Cheque_DES/main/cheque_detection.png)
 
-![Sample UI](./cheque_detection.png)
 
 ## Disclaimer
 
