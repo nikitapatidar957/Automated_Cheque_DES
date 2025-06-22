@@ -62,7 +62,7 @@ An intelligent cheque-processing pipeline using **YOLOv8** for object detection 
 ```
 ## Screenshots
 
-![Sample UI](./screenshots/cheque.png)
+![Sample UI](./cheque_detection.png)
 
 ## Disclaimer
 
